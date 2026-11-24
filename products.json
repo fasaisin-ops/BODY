@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fresh-30",
+    "name": "ยาสระผม Fresh เล็ก",
+    "mood": "fresh",
+    "type": "shampoo",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสะอาด โปร่งเบา ให้ความรู้สึกสดชื่นตั้งแต่เช้า ขนาดพกพา เหมาะกับการลองใช้และเดินทาง"
+  },
+  {
+    "id": "fresh-100",
+    "name": "ยาสระผม Fresh ใหญ่",
+    "mood": "fresh",
+    "type": "shampoo",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสะอาด โปร่งเบา ให้ความรู้สึกสดชื่นตั้งแต่เช้า ขนาดใหญ่ ใช้ได้ยาวนานในทุกวัน"
+  },
+  {
+    "id": "sweet-30",
+    "name": "ยาสระผม Sweet เล็ก",
+    "mood": "sweet",
+    "type": "shampoo",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหวานนุ่มละมุน อบอุ่นอย่างพอดี ขนาดพกพา เหมาะกับการลองใช้และเดินทาง"
+  },
+  {
+    "id": "sweet-100",
+    "name": "ยาสระผม Sweet ใหญ่",
+    "mood": "sweet",
+    "type": "shampoo",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหวานนุ่มละมุน อบอุ่นอย่างพอดี ขนาดใหญ่ ใช้ได้ยาวนานในทุกวัน"
+  },
+  {
+    "id": "confident-30",
+    "name": "ยาสระผม Confident เล็ก",
+    "mood": "confident",
+    "type": "shampoo",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นนิ่ง หนักแน่น ให้ความมั่นใจในทุกการพบปะ ขนาดพกพา เหมาะกับการลองใช้และเดินทาง"
+  },
+  {
+    "id": "confident-100",
+    "name": "ยาสระผม Confident ใหญ่",
+    "mood": "confident",
+    "type": "shampoo",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นนิ่ง หนักแน่น ให้ความมั่นใจในทุกการพบปะ ขนาดใหญ่ ใช้ได้ยาวนานในทุกวัน"
+  },
+  {
+    "id": "romance-30",
+    "name": "ยาสระผม Romance เล็ก",
+    "mood": "romance",
+    "type": "shampoo",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นอ่อนหวานลึกซึ้ง ชวนให้จดจำ ขนาดพกพา เหมาะกับการลองใช้และเดินทาง"
+  },
+  {
+    "id": "romance-100",
+    "name": "ยาสระผม Romance ใหญ่",
+    "mood": "romance",
+    "type": "shampoo",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นอ่อนหวานลึกซึ้ง ชวนให้จดจำ ขนาดใหญ่ ใช้ได้ยาวนานในทุกวัน"
+  }
+]
